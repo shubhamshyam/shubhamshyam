@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">am an upcoming Software Developer Engineer who loves to create large web applications, getting to know cloud infrastructure thoroughly and playing around with Generative AI and large language models. My main focus is on the MERN stack but I take pleasure in playing around with Docker containers, CI/CD pipelines, and prompt engineering among other things. I love to break things in development so they don't break in production (at least that's the goal). I am a perpetual learner, deploying frequently, and sometimes feigning understanding of the moody nature of Kubernetes.</h3>
+<h3 align="center"> Software Developer Engineer who loves to create large web applications, getting to know cloud infrastructure thoroughly and playing around with Generative AI and large language models. My main focus is on the MERN stack but I take pleasure in playing around with Docker containers, CI/CD pipelines, and prompt engineering among other things. I love to break things in development so they don't break in production (at least that's the goal). I am a perpetual learner, deploying frequently, and sometimes feigning understanding of the moody nature of Kubernetes.</h3>
 
 - 🌱 I’m currently learning **Cloud, Devops, Data Structure and Algorithms and some more development technologies**
 
